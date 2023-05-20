@@ -10,6 +10,24 @@
 .svn/
 migrate_working_dir/
 
+.metadata
+
+*.yml
+*.yaml
+*.xml
+*.lock
+
+test
+
+ios
+windows
+macos
+linux
+android
+web
+
+!pubspec.yaml
+
 # IntelliJ related
 *.iml
 *.ipr
